@@ -1,2 +1,3 @@
 # hello-world
-My first repositiry
+My first repository
+Ce commit sera mon premier push sur GitHub
